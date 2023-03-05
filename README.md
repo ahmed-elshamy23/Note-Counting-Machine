@@ -1,6 +1,6 @@
 # Note-Counting-Machine
 
-#### Used Hardware:
+#### Required Hardware:
 - Arduino UNO
 - Raspberry Pi 3
 - Pi Camera
@@ -25,6 +25,6 @@
 ---
 **NOTE**
 
-Make sure to install the required python modules on your raspberry pi and check the project description document for further information.
+<i>Make sure to install the required python modules on your raspberry pi and check the project description document for further information.<i/>
 
 ---
