@@ -22,4 +22,9 @@
 - The raspberry pi captures an image through a camera, runs an AI image classification model and calculates the amount of money
 - A UART frame is sent back to arduino UNO to display the amount of money on the LCD
 
-**_NOTE:_** Make sure to install the required python modules on your raspberry pi and check the project description document for further information.
+---
+**NOTE**
+
+Make sure to install the required python modules on your raspberry pi and check the project description document for further information.
+
+---
