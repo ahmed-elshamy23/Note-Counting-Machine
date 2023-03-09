@@ -18,7 +18,7 @@
 #### Overview:
 - The user is asked to enter a password followed by '=' through the keypad
 - Arduino UNO verifies the password (123456 by default) and sends UART frame to raspberry pi to start operation
-- The user puts the money in front of the camera and pushes the push button to start operation
+- The user puts the money in front of the camera and presses on the push button to start operation
 - The raspberry pi captures an image through a camera, runs an AI image classification model and calculates the amount of money
 - A UART frame is sent back to arduino UNO to display the amount of money on the LCD
 
